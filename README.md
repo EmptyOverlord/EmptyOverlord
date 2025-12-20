@@ -1,13 +1,13 @@
 <h1 align="left">
   Hey 
-  <img src="https://media.tenor.com/j5hRdcIVvkAAAAAi/kevin.gif" width="45" />
+  <img src="https://media.tenor.com/TQTVSmxhX5kAAAAj/apu-apustaja-apu.gif" width="45" />
   What's up?
 </h1>
 
 <p align="left">My name is David. I think I’ll surprise you yet ⭐</p>
 
 <p align="left">
-  <img src="https://media.tenor.com/-NkQYOJCM_AAAAAj/luckystar-dance-konata-izumi.gif" width="100" />
+  <img src="https://media.tenor.com/hvKV2A5vsBIAAAAj/yup.gif" width="100" />
 </p>
 
 <h2 align="left">About me</h2>

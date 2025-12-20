@@ -6,9 +6,6 @@
 
 <p align="left">My name is David. I think I’ll surprise you yet ⭐</p>
 
-<p align="left">
-  <img src="https://media.tenor.com/hvKV2A5vsBIAAAAj/yup.gif" width="100" />
-</p>
 
 <h2 align="left">About me</h2>
 

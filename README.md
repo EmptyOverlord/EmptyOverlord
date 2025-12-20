@@ -7,7 +7,7 @@
 <p align="left">My name is David. I think I’ll surprise you yet ⭐</p>
 
 <p align="left">
-  <img src="https://media.tenor.com/hvKV2A5vsBIAAAAj/yup.gif" width="60" />
+  <img src="https://media1.tenor.com/m/tgvuj0I-LUsAAAAd/yuruyuri-akari.gif" width="160" />
 </p>
 
 <h2 align="left">About me</h2>

@@ -16,8 +16,14 @@
   🎲 Fun fact: I remember numbers and words better through images than repetition
 </p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Using</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python badge" />
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI badge" />
+  </a>
+  <a href="https://pydantic.dev">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pydantic/pydantic/main/docs/badge/v2.json" alt="Pydantic v2 badge" />
+  </a>
 </div>
